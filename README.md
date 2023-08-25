@@ -11,5 +11,10 @@
   <li><bold>Day 8</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%208.ipynb">Find Users With Valid E-Mails</a></br></li>
   <li><bold>Day 9</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%209.ipynb">Patients With a Condition</a></br></li>
   <li><bold>Day 10</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%2010.ipynb">Nth Highest Salary</a></br></li>
+  <li><bold>Day 11</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%2011.ipynb">Second Highest Salary</a></br></li>
+  <li><bold>Day 12</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%2012.ipynb">Department Highest Salary </a></br></li>
+  <li><bold>Day 13</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%2013.ipynb">Rank Scores</a></br></li>
+  <li><bold>Day 14</bold> : <a href="https://github.com/Salma-Mamdoh/30-Day-of-Pandas/blob/main/Day%2014.ipynb">Delete Duplicate Emails</a></br></li>
+
 
 </u1>
